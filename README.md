@@ -1,4 +1,4 @@
-# Stakhanov.it
+# Artemaleksv
 
 ## Введение
 
